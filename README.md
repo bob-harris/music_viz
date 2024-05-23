@@ -16,4 +16,4 @@ This project is a music visualizer that creates a circular (rounded) visualizati
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/circular-music-visualizer.git
+   git clone https://github.com/bob_harris/music_viz.git
